@@ -1,1 +1,2 @@
 # SMART_HOME_APP
+2 写作测试
